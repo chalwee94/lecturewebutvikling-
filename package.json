@@ -1,0 +1,24 @@
+{
+  "name": "lecturewebutvikling-",
+  "version": "1.0.0",
+  "description": "øvind for min forelesning",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalwee94/lecturewebutvikling-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chalwee94/lecturewebutvikling-/issues"
+  },
+  "homepage": "https://github.com/chalwee94/lecturewebutvikling-#readme",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}
